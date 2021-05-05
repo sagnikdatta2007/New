@@ -2,10 +2,10 @@
 // Remember that object names and IDs should be unique across all extensions.
 // AL snippets start with t*, like tpageext - give them a try and happy coding!
 
-pageextension 50100 CustomerListExt extends "Customer List"
+pageextension 50122 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('This is needed to check the Github chnages ');
+        Message('Team is now exploring visually all GIthub commands and Version Control Chnages in PUblic ');
     end;
 }
